@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "# Sahaja Yoga\_**Meditation**\_can help bring a greater sense of well-being and balance to your life...\n"
     actions:
       - label: Get started
         altText: ''
